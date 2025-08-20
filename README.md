@@ -22,33 +22,31 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 -Create an Azure Storage Account
+- Step 2 -Create a File Share
+- Step 3 -Configure Access Permissions
+- Step 4 -Test User Access to The File Share
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1177" height="683" alt="image" src="https://github.com/user-attachments/assets/f85cd43c-597b-432f-a3ae-1854e44fb7f3" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This section shows how to configure and set up the shared drive — perfect for capturing the initial setup steps.<br />
+
+<p>
+<img width="1176" height="679" alt="image" src="https://github.com/user-attachments/assets/651f6462-fbc2-4784-b04d-fb1a36911242" />
+
 </p>
+<p>
+Here you’ll see how to assign user or group permissions to the shared folder — ideal for showing the security settings.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1178" height="643" alt="image" src="https://github.com/user-attachments/assets/d5302448-b5a5-40e9-9880-db79cdaf6ca1" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+This part covers creating a security group in Active Directory and linking it to the shared drive — great for showing how AD ties into file sharing.<br />
